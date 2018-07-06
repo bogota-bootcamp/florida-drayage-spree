@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+#Add new admin 
+rake  spree_autth:admin:create
